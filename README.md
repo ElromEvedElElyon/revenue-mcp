@@ -2,6 +2,8 @@
 
 Honest, transparent revenue intelligence for AI agents. No fake numbers, no inflated metrics, no scams.
 
+[![revenue-mcp MCP server](https://glama.ai/mcp/servers/ElromEvedElElyon/revenue-mcp/badges/card.svg)](https://glama.ai/mcp/servers/ElromEvedElElyon/revenue-mcp)
+
 ## Features
 
 - **11 Tools** for revenue tracking, bounty scanning, crypto portfolio, agent coordination
