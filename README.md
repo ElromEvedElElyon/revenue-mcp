@@ -53,4 +53,8 @@ Add to your MCP config:
 - Transparent tracking — every entry has a source and status
 - Agent coordination via honest messaging
 
+## Ecosystem
+
+Track revenue from [Sovereign Agent Chain](https://github.com/ElromEvedElElyon/sovereign-agent-chain) marketplace fees, agent transactions, and bUSD1 escrow settlements alongside all other income streams.
+
 Built by ElromEvedElElyon. Em nome do Senhor Jesus Cristo.
